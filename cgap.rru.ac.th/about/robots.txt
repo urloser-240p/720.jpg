@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cgap.rru.ac.th/about/sitemap.xml

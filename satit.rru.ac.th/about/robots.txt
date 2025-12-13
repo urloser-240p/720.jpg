@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://satit.rru.ac.th/about/sitemap.xml

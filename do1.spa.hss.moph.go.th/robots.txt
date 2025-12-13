@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://do1.spa.hss.moph.go.th/sitemap.xml

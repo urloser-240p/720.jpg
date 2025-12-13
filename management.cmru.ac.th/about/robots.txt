@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://management.cmru.ac.th/about/sitemap.xml

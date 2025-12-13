@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kruexp.rru.ac.th/about/sitemap.xml

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elearning.chonburi.spu.ac.th/about/sitemap.xml

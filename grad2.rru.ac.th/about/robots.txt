@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grad2.rru.ac.th/about/sitemap.xml

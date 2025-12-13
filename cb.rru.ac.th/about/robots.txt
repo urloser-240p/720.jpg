@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cb.rru.ac.th/about/sitemap.xml

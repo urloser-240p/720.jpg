@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://suthpcc.sut.ac.th/wordpress/about/sitemap.xml

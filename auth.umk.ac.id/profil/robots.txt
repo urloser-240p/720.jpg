@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://auth.umk.ac.id/profil/sitemap.xml
